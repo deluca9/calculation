@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string-array name="stations">
+
+        <item>진접</item>
+        <item>오남</item>
+        <item>별내별가람</item>
+        <item>당고개</item>
+        <item>상계</item>
+        <item>노원</item>
+        <item>창동</item>
+        <item>쌍문</item>
+        <item>수유(강북구청)</item>
+        <item>미아(서울사이버대학)</item>
+        <item>미아사거리</item>
+        <item>길음</item>
+        <item>성신여대입구(돈암)</item>
+        <item>한성대입구(삼선교)</item>
+        <item>혜화</item>
+        <item>동대문</item>
+        <item>동대문역사문화공원(DDP)</item>
+        <item>충무로</item>
+        <item>명동(정화예술대)</item>
+        <item>회현(남대문시장)</item>
+        <item>서울역</item>
+        <item>숙대입구(갈월)</item>
+        <item>삼각지</item>
+        <item>신용산(아모레퍼시픽)</item>
+        <item>이촌(국립중앙박물관)</item>
+        <item>동작(현충원)</item>
+        <item>총신대입구(이수)</item>
+        <item>사당</item>
+        <item>남태령</item>
+        <item>선바위</item>
+        <item>경마공원</item>
+        <item>대공원</item>
+        <item>과천</item>
+        <item>정부과천청사</item>
+        <item>인덕원</item>
+        <item>평촌</item>
+        <item>범계</item>
+        <item>금정</item>
+        <item>산본</item>
+        <item>수리산</item>
+        <item>대야미</item>
+        <item>반월</item>
+        <item>상록수</item>
+        <item>한대앞</item>
+        <item>중앙</item>
+        <item>고잔</item>
+        <item>초지</item>
+        <item>안산</item>
+        <item>신길온천</item>
+        <item>정왕</item>
+        <item>오이도</item>
+
+    </string-array>
+
+    <string name="label_end">목적지는 %s 역입니다.</string>
+    <string name="label_start">출발지는 %s 역입니다.</string>
+    <string name="label_left">남은 정거장 수는 %i 개</string>
+    <string name="label_one">다음 역에서 하차합니다</string>
+
+    <string name="Staion1">진접</string>
+    <string name="Staion2">오남</string>
+    <string name="Staion3">별내별가람</string>
+    <string name="Staion4">당고개</string>
+    <string name="Staion5">상계</string>
+    <string name="Staion6">노원</string>
+    <string name="Staion7">창동</string>
+    <string name="Staion8">쌍문</string>
+    <string name="Staion9">수유(강북구청)</string>
+    <string name="Staion10">미아(서울사이버대학)</string>
+    <string name="Staion11">미아사거리</string>
+    <string name="Staion12">길음</string>
+    <string name="Staion13">성신여대입구(돈암)</string>
+    <string name="Staion14">한성대입구(삼선교)</string>
+    <string name="Staion15">혜화</string>
+    <string name="Staion16">동대문</string>
+    <string name="Staion17">동대문역사문화공원(DDP)</string>
+    <string name="Staion18">충무로</string>
+    <string name="Staion19">명동</string>
+    <string name="Staion20">회현(남대문시장)</string>
+    <string name="Staion21">서울역</string>
+    <string name="Staion22">숙대입구(갈월)</string>
+    <string name="Staion23">삼각지</string>
+    <string name="Staion24">신용산</string>
+    <string name="Staion25">이촌(국립중앙박물관)</string>
+    <string name="Staion26">동작(현충원)</string>
+    <string name="Staion27">총신대입구(이수)</string>
+    <string name="Staion28">사당</string>
+    <string name="Staion29">남태령</string>
+
+</resources>
